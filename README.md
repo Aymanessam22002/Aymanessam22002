@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ayman, a passionate software engineer and front-end developer.
 
 ## Skills
-- Programming Languages: 💻 C, C++, JavaScript, Python
-- Web Development: 🌐 HTML, 🎨 CSS, 🚀 JavaScript, 🌱 Node.js
-- Full Stack Development: 📚 MERN (MongoDB, Express.js, React.js, Node.js)
+- Programming Languages: 💻 C
+- Web Development: 
+- Full Stack Development: 
 - Version Control: 🌳 Git
 - Operating Systems: 🐧 Linux
 
